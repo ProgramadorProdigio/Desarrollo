@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Descansa Y Relajate</string>
+    <string name="importancia">¿por qu es importante la meditacion?</string>
+    <string name="infomenu">Meditar es el camino que podemos elegir
+ para disminuirla presión, el estrés 
+y las preocupaciones que nos abordan
+diariamente.
+
+“La verdad en sí misma solo puede ser alcanzada dentro de uno mediante la más profunda meditación y conciencia.”
+-Buda-</string>
+
+<string name="consejo">No tienes que ser grande para empezar. Pero si quieres ser grande tienes que empezar para ser grande. </string>
+
+</resources>
