@@ -33,7 +33,7 @@
         android:id="@+id/textView3"
         android:layout_width="144dp"
         android:layout_height="45dp"
-        android:background="#5131C5"
+        android:background="#805131C5"
         android:text="10 a 20 minutos siesta recomendada"
         android:textAlignment="center"
         android:textColor="@color/white"
@@ -51,8 +51,9 @@
         android:id="@+id/textView5"
         android:layout_width="139dp"
         android:layout_height="42dp"
-        android:background="#5131C5"
-        android:text="10 a 20 minutos siesta recomendada"
+        android:background="#805131C5"
+        android:text="9:30 P.M - 10:45 PM
+        Hora ideal para dormir"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="12sp"
@@ -66,54 +67,33 @@
         app:layout_constraintVertical_bias="0.484" />
 
     <Button
-        android:id="@+id/button3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Meditación Vipassana"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.417"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.711" />
-
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Meditación Kundalini"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.809" />
-
-    <Button
         android:id="@+id/button5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="162dp"
+        android:layout_height="53dp"
+        android:backgroundTint="#50731dc4"
         android:text="Meditacion musica"
+        android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.809" />
+        app:layout_constraintVertical_bias="0.847" />
 
     <Button
-        android:id="@+id/button6"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Meditacion (Zazen)"
-        android:textColor="#FFFFFF"
+        android:id="@+id/btnirloyout3"
+        android:layout_width="193dp"
+        android:layout_height="51dp"
+        android:layout_marginBottom="100dp"
+        android:backgroundTint="#50731dc4"
+        android:text="Meditacion zan (Zanzen)"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.45"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.917" />
+        app:layout_constraintVertical_bias="0.979" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -127,6 +107,23 @@
         app:layout_constraintVertical_bias="0.0"
         android:alpha="0.8"
         app:srcCompat="@drawable/c_e" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="260dp"
+        android:layout_height="38dp"
+        android:background="#50731dc4"
+        android:fontFamily="@font/medium"
+        android:text="Selecciona la mejor opción para ti"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.708" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

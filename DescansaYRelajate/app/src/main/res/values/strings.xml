@@ -11,4 +11,21 @@ diariamente.
 
 <string name="consejo">No tienes que ser grande para empezar. Pero si quieres ser grande tienes que empezar para ser grande. </string>
 
+    <string name="titulo1">Bienvenido a la Meditación Zen (Zazen)</string>
+
+    <string name="consejoayuda1">Postura: se
+ realiza con las piernas cruzadas
+y con ambas plantas de lo
+s pies mirando hacia arriba. Procura que
+cada pierna se apoye sobre la
+ pierna contraria y
+mantén las rodillas en el suelo.</string>
+    <string name="meditacioninfo">
+                      La meditación zen, también conocida como zazen, es una práctica meditativa originaria del budismo zen, una escuela del budismo Mahāyāna que surgió en China durante la dinastía Tang y se desarrolló en Japón. El término “zen” es una abreviación de la palabra china “chánà”, que proviene del concepto sánscrito “dhyāna”, que significa meditación.
+
+Beneficios:
+La meditación zen se ha demostrado que tiene beneficios físicos y emocionales, como reducir el estrés, mejorar la salud general y aumentar la claridad mental. Además, es una práctica que puede ayudar a desarrollar una mayor conciencia y compasión hacia uno mismo y hacia los demás.
+
+Para iniciarse en la meditación zen, se recomienda encontrar un lugar y una posición cómoda, comenzar con sesiones cortas y centrarse en la respiración.
+    </string>
 </resources>

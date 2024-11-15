@@ -21,6 +21,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Layout2" />
+        <activity android:name=".Layout3" />
+        <activity android:name=".Layout4" />
     </application>
 
 </manifest>
